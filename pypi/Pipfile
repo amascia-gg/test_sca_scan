@@ -3,9 +3,15 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
+[[source]]
+name = "my-private-packages"
+url = "https://username:pwd@host_of_my_packages/simple"
+verify_ssl = true
+
 [packages]
 ujson = "==5.2.0"
 pydantic = "*"
+my_private_package_to_test = { version = "==0.5.*", index = "my-private-packages" }
 
 [dev-packages]
 
