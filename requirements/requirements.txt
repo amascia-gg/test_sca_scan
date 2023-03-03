@@ -1,3 +1,4 @@
 ujson==5.2.0
 pydantic
+--extra-index-url https://username:pwd@host_of_my_packages/simple
 my_private_package_to_test>=0.5
