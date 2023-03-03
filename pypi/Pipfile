@@ -4,15 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [[source]]
-name = "my-private-packages"
-url = "https://username:pwd@host_of_my_packages/simple"
+url = "https://username:pwd@private-package-host/simple"
 verify_ssl = true
+name = "my-private-packages"
 
 [packages]
 ujson = "==5.2.0"
 pydantic = "*"
 pandas = "*"
-my_private_package_to_test = { version = "==0.5.*", index = "my-private-packages" }
+mypackage = { version = "==1.2.1", index = "my-private-packages" }
 
 [dev-packages]
 
