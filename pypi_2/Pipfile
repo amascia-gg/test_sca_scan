@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 ujson = "==5.2.0"
 pydantic = "*"
+markdown-it-py = "*"
 
 [dev-packages]
 
