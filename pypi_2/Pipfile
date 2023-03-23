@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-ujson = "==5.2.3"
+ujson = "==5.2.4"
 pydantic = "*"
 markdown-it-py = "==0.4.0"
 
