@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "efaadfdf036b68b11961c74f092ca48786b407cf954db98dee7ae3f08763f138"
+            "sha256": "a629a51ff54be0f240fc44797a15fcaaf0bfbd293e4cf3017a632ab85e133267"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -26,11 +26,11 @@
         },
         "markdown-it-py": {
             "hashes": [
-                "sha256:1550d18fd6475a729a2841e0270ea2457c88da67dec0a9832ac1f67f574ea310",
-                "sha256:8f908fbc872205ab29eb297a525fff508f8fa626cb2d5725389d0d180fa6b610"
+                "sha256:54d317f4b192171b705756201df6374a0e4f51f2a5d08748b617d26206b70a7c",
+                "sha256:974e965a40693cb930301fbb7e52644fb339980a0ebcaa76e68bb77d045620cb"
             ],
             "index": "pypi",
-            "version": "==0.4.2"
+            "version": "==0.4.1"
         },
         "pydantic": {
             "hashes": [
