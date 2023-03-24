@@ -30,7 +30,7 @@
                 "sha256:690b47b9908f1bdbbf91bfdcf19720e77a768160fb8004ec00529e575c16d325"
             ],
             "index": "pypi",
-            "version": "==0.4.1"
+            "version": "==0.4.2"
         },
         "pydantic": {
             "hashes": [
