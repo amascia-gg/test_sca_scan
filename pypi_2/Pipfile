@@ -3,16 +3,10 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
-[[source]]
-url = "https://username:pwd@private-package-host/simple"
-verify_ssl = true
-name = "my-private-packages"
-
 [packages]
-ujson = "==5.2.1"
+ujson = "==5.4.0"
 pydantic = "*"
-pandas = "*"
-mypackage = { version = "==1.2.1", index = "my-private-packages" }
+markdown-it-py = "==0.4.0"
 
 [dev-packages]
 
