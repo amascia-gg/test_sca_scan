@@ -21,6 +21,13 @@
         ]
     },
     "default": {
+        "mypackage": {
+            "hashes": [
+                "sha256:a503b5e54d4ee6af1184c490083a018c594b3f7e6953fb4ad4459f3207a69399"
+            ],
+            "index": "my-private-packages",
+            "version": "==1.2.1"
+        },
         "flake8": {
             "hashes": [
                 "sha256:3833794e27ff64ea4e9cf5d410082a8b97ff1a06c16aa3d2027339cd0f1195c7",
@@ -28,13 +35,6 @@
             ],
             "markers": "python_full_version >= '3.8.1'",
             "version": "==6.0.0"
-        },
-        "mypackage": {
-            "hashes": [
-                "sha256:a503b5e54d4ee6af1184c490083a018c594b3f7e6953fb4ad4459f3207a69399"
-            ],
-            "index": "my-private-packages",
-            "version": "==1.2.1"
         },
         "mccabe": {
             "hashes": [
