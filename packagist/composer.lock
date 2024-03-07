@@ -1670,6 +1670,10 @@
         "time": "2024-01-23T13:51:25+00:00"
       },
       {
+        "name": "lms/routes",
+        "version": "v1.3.3"
+      },
+      {
         "name": "symfony/service-contracts",
         "version": "v2.5.2",
         "source": {
