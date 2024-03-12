@@ -1674,6 +1674,10 @@
         "version": "v1.3.3"
       },
       {
+        "name": "pocketmine/pocketmine-mp",
+        "version": "4.1.0-BETA"
+      },
+      {
         "name": "symfony/service-contracts",
         "version": "v2.5.2",
         "source": {
