@@ -1675,7 +1675,7 @@
       },
       {
         "name": "pocketmine/pocketmine-mp",
-        "version": "4.1.0-BETA"
+        "version": "4.6.1"
       },
       {
         "name": "symfony/service-contracts",
