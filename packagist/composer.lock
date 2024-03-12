@@ -1671,7 +1671,7 @@
       },
       {
         "name": "lms/routes",
-        "version": "v1.3.3"
+        "version": "v1.4.0"
       },
       {
         "name": "pocketmine/pocketmine-mp",
